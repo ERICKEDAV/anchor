@@ -342,8 +342,6 @@
 <a href="https://api.mhsd.com.au/">kode4d</a>
 <a href="https://api.greenpool.no/">wak5000</a>
 <a href="https://platform.smartdealmaker.com/">wak5000</a>
-<a href="https://www.buseet.com/">wak5000</a>
-<a href="https://betaclient.securovision.com/">wak5000</a>
 <a href="https://middleware-qa.menatwork.at/">wak5000</a>
 <a href="https://www.worldrxusa.com/">kode4d</a>
 <a href="https://storeportalstaging.danielsjewelers.com/">wak5000</a>
